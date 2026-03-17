@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\EditorConsole.obj",
+            "outputs": [
+                "x64\\Debug\\EditorConsole.h_9FA32D9283E6B02.ifc.dt.module.json",
+                "x64\\Debug\\EditorConsole.h_9FA32D9283E6B02.ifc.dt.d.json",
+                "x64\\Debug\\EditorConsole.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\lois5\\Desktop\\새 폴더\\JungleTechLabWeek02\\CustomGameEngine\\EditorConsole.h",
+                    "source-path": "c:\\users\\lois5\\desktop\\새 폴더\\jungletechlabweek02\\customgameengine\\editorconsole.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

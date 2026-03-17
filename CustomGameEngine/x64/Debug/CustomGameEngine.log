@@ -1,0 +1,370 @@
+﻿  모듈 종속성의 소스를 검사하는 중...
+  EditorConsole.h
+  컴파일하는 중...
+  EditorConsole.h
+  Editor.cpp
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\RenderObject.h(6,7): warning C4099: 'FGeometry': 처음에는 'struct'을(를) 사용하여 형식 이름을 표시했는데 이제는 'class'을(를) 사용하여 표시합니다.
+  (소스 파일 'Editor.cpp'을(를) 컴파일하는 중)
+      C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FGeometry.h(7,8):
+      'FGeometry' 선언을 참조하십시오.
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\RenderObject.h(8,8): warning C4099: 'RenderObject': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  (소스 파일 'Editor.cpp'을(를) 컴파일하는 중)
+      C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\RenderObject.h(8,8):
+      'RenderObject' 선언을 참조하십시오.
+  
+  EditorConsole.cpp
+  EditorControlPanel.cpp
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\Timer.h(18,32): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'EditorControlPanel.cpp'을(를) 컴파일하는 중)
+  
+  EditorPropertyPanel.cpp
+  EditorStatPanel.cpp
+  EngineApp.cpp
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FMaterial.h(5,8): warning C4099: 'FMaterial': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  (소스 파일 'EngineApp.cpp'을(를) 컴파일하는 중)
+      C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FMaterial.h(5,8):
+      'FMaterial' 선언을 참조하십시오.
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FGeometry.h(7,8): warning C4099: 'FGeometry': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  (소스 파일 'EngineApp.cpp'을(를) 컴파일하는 중)
+      C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FGeometry.h(7,8):
+      'FGeometry' 선언을 참조하십시오.
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(230,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'EngineApp.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(237,79): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'EngineApp.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(288,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'EngineApp.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(295,79): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'EngineApp.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(343,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'EngineApp.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(350,79): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'EngineApp.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\UPrimitiveComponent.h(5,7): warning C4099: 'FGeometry': 처음에는 'struct'을(를) 사용하여 형식 이름을 표시했는데 이제는 'class'을(를) 사용하여 표시합니다.
+  (소스 파일 'EngineApp.cpp'을(를) 컴파일하는 중)
+      C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FGeometry.h(7,8):
+      'FGeometry' 선언을 참조하십시오.
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\Gizmo.h(8,7): warning C4099: 'RenderObject': 처음에는 'struct'을(를) 사용하여 형식 이름을 표시했는데 이제는 'class'을(를) 사용하여 표시합니다.
+  (소스 파일 'EngineApp.cpp'을(를) 컴파일하는 중)
+      C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\RenderObject.h(8,8):
+      'RenderObject' 선언을 참조하십시오.
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\Timer.h(18,32): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'EngineApp.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\EngineApp.cpp(175,31): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\EngineApp.cpp(175,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\EngineApp.cpp(178,45): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\EngineApp.cpp(178,36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\EngineApp.cpp(198,70): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\EngineApp.cpp(198,61): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  FColor.cpp
+  FLevel.cpp
+  FMatrix.cpp
+  FObjectFactory.cpp
+  Gizmo.cpp
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\RenderObject.h(6,7): warning C4099: 'FGeometry': 처음에는 'struct'을(를) 사용하여 형식 이름을 표시했는데 이제는 'class'을(를) 사용하여 표시합니다.
+  (소스 파일 'Gizmo.cpp'을(를) 컴파일하는 중)
+      C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FGeometry.h(7,8):
+      'FGeometry' 선언을 참조하십시오.
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\RenderObject.h(8,8): warning C4099: 'RenderObject': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  (소스 파일 'Gizmo.cpp'을(를) 컴파일하는 중)
+      C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\RenderObject.h(8,8):
+      'RenderObject' 선언을 참조하십시오.
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FMaterial.h(5,8): warning C4099: 'FMaterial': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  (소스 파일 'Gizmo.cpp'을(를) 컴파일하는 중)
+      C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FMaterial.h(5,8):
+      'FMaterial' 선언을 참조하십시오.
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(230,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Gizmo.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(237,79): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Gizmo.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(288,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Gizmo.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(295,79): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Gizmo.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(343,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Gizmo.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(350,79): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Gizmo.cpp'을(를) 컴파일하는 중)
+  
+  GizmoController.cpp
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\RenderObject.h(6,7): warning C4099: 'FGeometry': 처음에는 'struct'을(를) 사용하여 형식 이름을 표시했는데 이제는 'class'을(를) 사용하여 표시합니다.
+  (소스 파일 'GizmoController.cpp'을(를) 컴파일하는 중)
+      C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FGeometry.h(7,8):
+      'FGeometry' 선언을 참조하십시오.
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\RenderObject.h(8,8): warning C4099: 'RenderObject': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  (소스 파일 'GizmoController.cpp'을(를) 컴파일하는 중)
+      C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\RenderObject.h(8,8):
+      'RenderObject' 선언을 참조하십시오.
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FMaterial.h(5,8): warning C4099: 'FMaterial': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  (소스 파일 'GizmoController.cpp'을(를) 컴파일하는 중)
+      C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FMaterial.h(5,8):
+      'FMaterial' 선언을 참조하십시오.
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(230,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'GizmoController.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(237,79): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'GizmoController.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(288,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'GizmoController.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(295,79): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'GizmoController.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(343,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'GizmoController.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(350,79): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'GizmoController.cpp'을(를) 컴파일하는 중)
+  
+  InputManager.cpp
+  json.cpp
+  Logger.cpp
+  RenderObject.cpp
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FGeometry.h(7,8): warning C4099: 'FGeometry': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  (소스 파일 'RenderObject.cpp'을(를) 컴파일하는 중)
+      C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FGeometry.h(7,8):
+      'FGeometry' 선언을 참조하십시오.
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FMaterial.h(5,8): warning C4099: 'FMaterial': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  (소스 파일 'RenderObject.cpp'을(를) 컴파일하는 중)
+      C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FMaterial.h(5,8):
+      'FMaterial' 선언을 참조하십시오.
+  
+  ResourceManager.cpp
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(230,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'ResourceManager.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(237,79): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'ResourceManager.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(288,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'ResourceManager.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(295,79): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'ResourceManager.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(343,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'ResourceManager.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(350,79): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'ResourceManager.cpp'을(를) 컴파일하는 중)
+  
+  Scene.cpp
+  FVector.cpp
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FVector.cpp(70,24): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FVector.cpp(71,24): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FVector.cpp(72,24): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  imgui.cpp
+  코드를 생성하고 있습니다...
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\Gizmo.cpp(35,1): warning C4715: 'Gizmo::UpdateRenderObject': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  컴파일하고 있습니다...
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+  SceneManager.cpp
+  Timer.cpp
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\Timer.h(18,32): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Timer.cpp'을(를) 컴파일하는 중)
+  
+  TimerManager.cpp
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\Timer.h(18,32): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'TimerManager.cpp'을(를) 컴파일하는 중)
+  
+  UAxisComp.cpp
+  UCamera.cpp
+  UCubeComp.cpp
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FMaterial.h(5,8): warning C4099: 'FMaterial': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  (소스 파일 'UCubeComp.cpp'을(를) 컴파일하는 중)
+      C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FMaterial.h(5,8):
+      'FMaterial' 선언을 참조하십시오.
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FGeometry.h(7,8): warning C4099: 'FGeometry': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  (소스 파일 'UCubeComp.cpp'을(를) 컴파일하는 중)
+      C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FGeometry.h(7,8):
+      'FGeometry' 선언을 참조하십시오.
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(230,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'UCubeComp.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(237,79): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'UCubeComp.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(288,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'UCubeComp.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(295,79): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'UCubeComp.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(343,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'UCubeComp.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(350,79): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'UCubeComp.cpp'을(를) 컴파일하는 중)
+  
+  UPicker.cpp
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\RenderObject.h(6,7): warning C4099: 'FGeometry': 처음에는 'struct'을(를) 사용하여 형식 이름을 표시했는데 이제는 'class'을(를) 사용하여 표시합니다.
+  (소스 파일 'UPicker.cpp'을(를) 컴파일하는 중)
+      C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FGeometry.h(7,8):
+      'FGeometry' 선언을 참조하십시오.
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\RenderObject.h(8,8): warning C4099: 'RenderObject': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  (소스 파일 'UPicker.cpp'을(를) 컴파일하는 중)
+      C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\RenderObject.h(8,8):
+      'RenderObject' 선언을 참조하십시오.
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\UPrimitiveComponent.h(5,7): warning C4099: 'FGeometry': 처음에는 'struct'을(를) 사용하여 형식 이름을 표시했는데 이제는 'class'을(를) 사용하여 표시합니다.
+  (소스 파일 'UPicker.cpp'을(를) 컴파일하는 중)
+      C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FGeometry.h(7,8):
+      'FGeometry' 선언을 참조하십시오.
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FMaterial.h(5,8): warning C4099: 'FMaterial': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  (소스 파일 'UPicker.cpp'을(를) 컴파일하는 중)
+      C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FMaterial.h(5,8):
+      'FMaterial' 선언을 참조하십시오.
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(230,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'UPicker.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(237,79): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'UPicker.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(288,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'UPicker.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(295,79): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'UPicker.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(343,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'UPicker.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(350,79): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'UPicker.cpp'을(를) 컴파일하는 중)
+  
+  UPlaneComp.cpp
+  UPrimitiveComponent.cpp
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FMaterial.h(5,8): warning C4099: 'FMaterial': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  (소스 파일 'UPrimitiveComponent.cpp'을(를) 컴파일하는 중)
+      C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FMaterial.h(5,8):
+      'FMaterial' 선언을 참조하십시오.
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FGeometry.h(7,8): warning C4099: 'FGeometry': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  (소스 파일 'UPrimitiveComponent.cpp'을(를) 컴파일하는 중)
+      C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FGeometry.h(7,8):
+      'FGeometry' 선언을 참조하십시오.
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(230,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'UPrimitiveComponent.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(237,79): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'UPrimitiveComponent.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(288,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'UPrimitiveComponent.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(295,79): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'UPrimitiveComponent.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(343,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'UPrimitiveComponent.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(350,79): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'UPrimitiveComponent.cpp'을(를) 컴파일하는 중)
+  
+  USceneComponent.cpp
+  UEngineStatics.cpp
+  UObject.cpp
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\UObject.cpp(9,36): warning C4267: '=': 'size_t'에서 'uint32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\UObject.cpp(23,41): warning C4267: '+=': 'size_t'에서 'uint32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\UObject.cpp(32,41): warning C4267: '-=': 'size_t'에서 'uint32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  URender.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  USphereComp.cpp
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FMaterial.h(5,8): warning C4099: 'FMaterial': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  (소스 파일 'USphereComp.cpp'을(를) 컴파일하는 중)
+      C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FMaterial.h(5,8):
+      'FMaterial' 선언을 참조하십시오.
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FGeometry.h(7,8): warning C4099: 'FGeometry': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  (소스 파일 'USphereComp.cpp'을(를) 컴파일하는 중)
+      C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FGeometry.h(7,8):
+      'FGeometry' 선언을 참조하십시오.
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(230,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'USphereComp.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(237,79): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'USphereComp.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(288,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'USphereComp.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(295,79): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'USphereComp.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(343,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'USphereComp.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(350,79): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'USphereComp.cpp'을(를) 컴파일하는 중)
+  
+  UTriangleComp.cpp
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FMaterial.h(5,8): warning C4099: 'FMaterial': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  (소스 파일 'UTriangleComp.cpp'을(를) 컴파일하는 중)
+      C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FMaterial.h(5,8):
+      'FMaterial' 선언을 참조하십시오.
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FGeometry.h(7,8): warning C4099: 'FGeometry': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  (소스 파일 'UTriangleComp.cpp'을(를) 컴파일하는 중)
+      C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\FGeometry.h(7,8):
+      'FGeometry' 선언을 참조하십시오.
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(230,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'UTriangleComp.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(237,79): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'UTriangleComp.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(288,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'UTriangleComp.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(295,79): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'UTriangleComp.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(343,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'UTriangleComp.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\CustomGameEngine\ResourceManager.h(350,79): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'UTriangleComp.cpp'을(를) 컴파일하는 중)
+  
+  World.cpp
+  코드를 생성하고 있습니다...
+  CustomGameEngine.vcxproj -> C:\Users\lois5\Desktop\새 폴더\JungleTechLabWeek02\x64\Debug\CustomGameEngine.exe
